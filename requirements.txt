@@ -1,0 +1,14 @@
+
+
+numpy==1.19.2
+#streamlit==0.79.0
+opencv-python-headless
+#altair
+streamlit==0.84.2
+tensorflow>=1.3.0
+keras
+Pillow==8.1.2
+pandas==1.1.5
+matplotlib==3.2.1
+
+
